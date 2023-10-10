@@ -27,5 +27,9 @@ The app uses [The Rick and Morty API](https://rickandmortyapi.com/)
 
 ## APP
 
+The app has 2 functionalities, search and complete list of characters. In both you can see the detail of any of them.
+
+The detail shows the location, origin and episodes in which the character appears.
+
 ![resumeIamge](https://github.com/thais1771/R-M/assets/39219219/d3e81b78-816c-42b4-b783-2dda95c7963c)
 
